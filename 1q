@@ -1,0 +1,53 @@
+[33mcommit e4d08c0dcfe874a180e36577b4c5c3a5b1b81694[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 19:17:22 2017 -0400
+
+    lol
+
+[33mcommit a421602fb78fc113ab0e17edcac52c469712ea4f[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 19:16:49 2017 -0400
+
+    Changed Name of Portfolio
+
+[33mcommit 109151bc059c59ad804e85bb2db96550525a5a2a[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 16:32:42 2017 -0400
+
+    added node module stuff
+
+[33mcommit 656186c58d359a661fcac2546c09cb62e8017e86[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 12:33:05 2017 -0400
+
+    cleaned up code
+
+[33mcommit 0930274e483fc8a2c41a09e8215243b463c0c9b3[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 12:29:04 2017 -0400
+
+    rename index to app to run on azure
+
+[33mcommit 5594112f9ac5ad01326ec32fb4451a2a628c3eab[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Wed Apr 12 12:25:30 2017 -0400
+
+    updated readme with demo
+
+[33mcommit d27338f6a4c235d2977e804715b145f1636f2b61[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Mon Apr 10 12:45:56 2017 -0400
+
+    cleaned up title tag and consistent caps of name
+
+[33mcommit 0bbf056573c447a0060e00badce2d4575c34cb2e[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Sun Apr 9 21:34:08 2017 -0400
+
+    basic portfolio site
+
+[33mcommit 70a48ce28d721c2d6a05650033a4e129dc3ac625[m
+Author: rachelnicole <loveless@gmail.com>
+Date:   Tue Apr 4 21:57:46 2017 -0400
+
+    set up initial commit
